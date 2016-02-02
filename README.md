@@ -6,6 +6,7 @@
 - Dirección: https://goo.gl/maps/98vwAt9NZMU2
 - Docente: Eric Gustavo Coronel Castillo
 - Blog: www.desarrollasoftware.com
+- Página del curso: http://gcoronelc.github.io/SISTUNI_PROG_JAVA_003/
 
 
 # RECURSOS RECOMENDADOS
