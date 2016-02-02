@@ -26,3 +26,8 @@
 - Fecha: 02-FEB-2016
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-01.html
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
+
+
+# CLASE 02
+
+- Fecha: 04-FEB-2016
