@@ -16,6 +16,13 @@ public class Producto {
     this.precio = 300.0;
     this.stock = 20;
     this.activo = true;
+    System.out.println("Objeto creado.");
+  }
+
+  @Override
+  protected void finalize() throws Throwable {
+    super.finalize(); 
+    System.err.println("Chau objeto.");
   }
   
   
