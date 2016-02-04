@@ -1,3 +1,6 @@
+![Java Web Services](https://raw.githubusercontent.com/gcoronelc/SISTUNI_PROG_JAVA_003/master/ProgJava.jpg)
+
+
 # PROGRAMADOR JAVA
 
 - Lugar: SistemasUNI
@@ -31,3 +34,4 @@
 # CLASE 02
 
 - Fecha: 04-FEB-2016
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-02.html
