@@ -24,4 +24,8 @@ public class Clase1 {
     return value;
   }
   
+  public int restar(int n1, int n2) {
+    return (n1 - n2);
+  }
+  
 }
