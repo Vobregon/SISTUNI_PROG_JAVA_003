@@ -1,5 +1,7 @@
 package pe.egcc.mateapp;
 
+import pe.egcc.mateapp.view.FormularioMDI;
+
 /**
  *
  * @author Gustavo Coronel
@@ -7,7 +9,7 @@ package pe.egcc.mateapp;
 public class ClasePrincipal {
 
   public static void main(String[] args) {
-    
+    FormularioMDI.main(null);
   }
   
 }
