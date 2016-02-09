@@ -4,7 +4,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -32,3 +31,4 @@ hs_err_pid*
 /CLASE02/EduTecLib/dist/
 /CLASE02/EduTecApp/nbproject/private/
 /CLASE02/EduTecApp/build/
+/CLASE03/MateApp/nbproject/private/
