@@ -45,6 +45,14 @@
 - http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-05-herencia.html
 - http://siul02.si.ehu.es/~alfredo/iso/06Patrones.pdf
 
+# CLASE 04
+
+- Fecha: 11-FEB-2016
+- http://gcoronelc.blogspot.pe/2014/04/java-poo-leccion-09-excepciones.html
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-06-interfaces.html
+- http://gcoronelc.blogspot.pe/2013/09/java-poo-leccion-07-arreglos.html
+
+
 
 
 
